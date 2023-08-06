@@ -20,9 +20,9 @@ export default {
         '1': '1fr'
        },
        transitionProperty: {
-         'gridRow': 'grid-template-rows',
+         'gridRow': 'grid-template-rows ',
          'visibility': 'visibility'
-        }
+        },
     },
   },
   plugins: [],

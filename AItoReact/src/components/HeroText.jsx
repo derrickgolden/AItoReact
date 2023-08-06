@@ -6,7 +6,7 @@ const HeroText = () =>(
             yoga time
         </h1>
         <div className="flex flex-row gap-2 py-3 h-full ">
-            <p className="text-right text-base">
+            <p className="text-right text-base text-blueyy">
                 Lorem ipsum, dolor sit amet consectetur adipisicing elit. Hic, 
                 praesentium totam nihil magnam ipsam qui. Accusantium 
             </p>
