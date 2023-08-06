@@ -1,0 +1,17 @@
+
+#root{
+  position: absolute;
+  width: 100%;
+  height: 100vh;
+  background-color: #e59d8f;
+  z-index: -2;
+  display: flex;
+  justify-items: center;
+  padding: 20px;
+}
+.inner-card{
+  margin: auto;
+  width: 786px;
+  min-height: 496px;
+  background-color: #ffffff;
+}
